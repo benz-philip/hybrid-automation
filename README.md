@@ -216,4 +216,12 @@ Below are the step definitions :
     $ mvn test or you can can run using testng-suite.xml
     ```
 
+Sample Screenshot of the report
+
+![image](https://user-images.githubusercontent.com/81441944/112714420-c0eeba80-8ef3-11eb-9300-58340a994fa6.png)
+
+![image](https://user-images.githubusercontent.com/81441944/112714432-d06e0380-8ef3-11eb-8392-ee0e682dd9e4.png)
+
+
+
 	
