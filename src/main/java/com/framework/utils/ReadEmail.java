@@ -56,8 +56,8 @@ public class ReadEmail {
 
         String host = "imap.gmail.com";
         String mailStoreType = "imap";
-        String username = "selendroid.testing@gmail.com";
-        String password = "Test@2021";
+        String username = "your email id";
+        String password = "your password";
 
         readEmail(host, mailStoreType, username, password);
 
