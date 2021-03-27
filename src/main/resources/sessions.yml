@@ -1,0 +1,11 @@
+SAMSUNG_ANDROID:
+  OS: 'ANDROID'
+  ENVIRONMENT: 'DEV'
+  DEVICE_ID: '1cc3e6e13d027ece'
+  PLATFORM_VERSION: '8.0.0'
+  DEVICE_NAME: 'Samsung Galaxy S9'
+  AUTOMATION_NAME: 'UIAUTOMATOR2'
+  APP_PACKAGE: 'io.selendroid.testapp'
+  APP_ACTIVITY: 'io.selendroid.testapp.HomeScreenActivity'
+  APPIUM_PORT: '4723'
+  TEXT_NAME: 'JOHN WICK'
